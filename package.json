@@ -6,7 +6,7 @@
     "contributors": [],
     "dependencies": {
         "mdns": "^2.7.2",
-        "plist": "~1.1.0"
+        "plist": "~3.0.4"
     },
     "keywords": [
         "apple",
